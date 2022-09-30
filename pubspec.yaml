@@ -1,0 +1,27 @@
+name: login_lite
+version: 1.0.0+1
+publish_to: none
+description: A new Flutter project.
+environment: 
+  sdk: '>=2.17.6 <3.0.0'
+
+dependencies: 
+  cupertino_icons: ^1.0.2
+  get: 4.6.5
+  flutter: 
+    sdk: flutter
+  aveoauth:
+    git:
+      url: https://gitlab+deploy-token-1292132:ZJTMXqp-c3R4-kynasek@gitlab.com/aveo-mobile-products/aveoauth.git
+      ref: master
+  firebase_auth: ^3.10.0
+  firebase_core: ^1.24.0
+
+dev_dependencies: 
+  flutter_lints: 2.0.1
+  flutter_test: 
+    sdk: flutter
+
+flutter: 
+  uses-material-design: true
+

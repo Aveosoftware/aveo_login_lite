@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">login_lite</string>
-    <string name="facebook_app_id">471877048204640</string>
-    <string name="fb_login_protocol_scheme">fb471877048204640</string>
-    <string name="facebook_client_token">4d2938307d1cd49d98a401fb896e5cb0</string>
+    <string name="app_name">[APP-NAME]</string>
+    <string name="facebook_app_id">[APP-ID]</string>
+    <string name="fb_login_protocol_scheme">fb[APP-ID]</string>
+    <string name="facebook_client_token">[CLIENT-TOKEN]</string>
 </resources>

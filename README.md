@@ -4,6 +4,9 @@
 - [General Configuration](#general-configuration)
     - [Generate and Add `SHA` key to Firebase:](#generate-and-add-sha-key-to-firebase)
     - [Add **Firebase** to your **Flutter Application**](#add-firebase-to-your-flutter-application)
+- [Open-source Libraries Used](#open-source-libraries-used)
+  - [Flutter Official Plugins](#flutter-official-plugins)
+  - [Third Party Plugins](#third-party-plugins)
 - [Google Login](#google-login)
   - [Configuration for Google Login for Android](#configuration-for-google-login-for-android)
   - [Configuration for Google Login for IOS](#configuration-for-google-login-for-ios)
@@ -29,6 +32,21 @@ keytool -list -v -keystore {keystore_name} -alias {alias_name}
 ```
  ### Add **Firebase** to your **Flutter Application**
   [Adding Firebase](https://firebase.google.com/docs/flutter/)
+
+# Open-source Libraries Used
+## Flutter Official Plugins
+- firebase_core: https://pub.dev/packages/firebase_core
+- firebase_auth: https://pub.dev/packages/firebase_auth
+- google_sign_in: https://pub.dev/packages/google_sign_in
+- path: https://pub.dev/packages/path
+- http: https://pub.dev/packages/http
+
+## Third Party Plugins
+- flutter_facebook_auth: https://pub.dev/packages/flutter_facebook_auth
+- get_storage: https://pub.dev/packages/get_storage
+- logger: https://pub.dev/packages/logger
+- sms_autofill: https://pub.dev/packages/sms_autofill
+
 # Google Login
 
 ## Configuration for Google Login for Android

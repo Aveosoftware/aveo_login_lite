@@ -3,21 +3,21 @@
 <plist version="1.0">
 <dict>
 	<key>CLIENT_ID</key>
-	<string>450327961066-q8r2qdgq4iorriscdthlkkrl9cm39btq.apps.googleusercontent.com</string>
+	<string>468637029356-tuuun44q02titliql9bl5dd24h3ef7tg.apps.googleusercontent.com</string>
 	<key>REVERSED_CLIENT_ID</key>
-	<string>com.googleusercontent.apps.450327961066-q8r2qdgq4iorriscdthlkkrl9cm39btq</string>
+	<string>com.googleusercontent.apps.468637029356-tuuun44q02titliql9bl5dd24h3ef7tg</string>
 	<key>API_KEY</key>
-	<string>AIzaSyDD6AStYho1ZkdxSLbt-of3mQwqK1b0tac</string>
+	<string>AIzaSyBoOlZfrW6e_5Vdp3GWg63Vap91I-Cwv-k</string>
 	<key>GCM_SENDER_ID</key>
-	<string>450327961066</string>
+	<string>468637029356</string>
 	<key>PLIST_VERSION</key>
 	<string>1</string>
 	<key>BUNDLE_ID</key>
 	<string>com.aveosoftware.loginlite.loginLite</string>
 	<key>PROJECT_ID</key>
-	<string>loginlite-73900</string>
+	<string>login-lite-3c0c9</string>
 	<key>STORAGE_BUCKET</key>
-	<string>loginlite-73900.appspot.com</string>
+	<string>login-lite-3c0c9.appspot.com</string>
 	<key>IS_ADS_ENABLED</key>
 	<false></false>
 	<key>IS_ANALYTICS_ENABLED</key>
@@ -29,6 +29,6 @@
 	<key>IS_SIGNIN_ENABLED</key>
 	<true></true>
 	<key>GOOGLE_APP_ID</key>
-	<string>1:450327961066:ios:366e3e438106205db9e693</string>
+	<string>1:468637029356:ios:90392fa24db13c05ece6c9</string>
 </dict>
 </plist>

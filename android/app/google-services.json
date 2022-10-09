@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "468637029356",
+    "project_id": "login-lite-3c0c9",
+    "storage_bucket": "login-lite-3c0c9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:468637029356:android:8a7bc65ab79f9dfcece6c9",
+        "android_client_info": {
+          "package_name": "com.aveosoftware.loginlite.login_lite"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "468637029356-qnfqqqm11r3vlf4ls7iudoacui5n773m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBSLif8BahG-6rFGBvweoYlo5j-pRs7nHo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "468637029356-qnfqqqm11r3vlf4ls7iudoacui5n773m.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "468637029356-tuuun44q02titliql9bl5dd24h3ef7tg.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.aveosoftware.loginlite.loginLite"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -52,17 +52,17 @@
 				<string>Editor</string>
 				<key>CFBundleURLSchemes</key>
 				<array>
-					<string>[YOUR_GOOGLE_SCHEMA]</string>
-					<string>fb[APP-ID]</string>
+					<string>com.googleusercontent.apps.468637029356-tuuun44q02titliql9bl5dd24h3ef7tg</string>
+					<string>fb477702877737775</string>
 				</array>
 			</dict>
 		</array>
 		<key>FacebookAppID</key>
-		<string>[APP-ID]</string>
+		<string>477702877737775</string>
 		<key>FacebookClientToken</key>
-		<string>[CLIENT-TOKEN]</string>
+		<string>47dc4b7084ca1d1d55cfbdde0110b451</string>
 		<key>FacebookDisplayName</key>
-		<string>[APP-NAME]</string>
+		<string>Login-Lite</string>
 		<key>LSApplicationQueriesSchemes</key>
 		<array>
 			<string>fbapi</string>

@@ -44,40 +44,40 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions web = FirebaseOptions(
-    apiKey: 'AIzaSyBPQ141Rx7WjqV4P71tdP9jyYFuD1paYR8',
-    appId: '1:450327961066:web:d0ce1abb4975a563b9e693',
-    messagingSenderId: '450327961066',
-    projectId: 'loginlite-73900',
-    authDomain: 'loginlite-73900.firebaseapp.com',
-    storageBucket: 'loginlite-73900.appspot.com',
-    measurementId: 'G-LF44ESFJJQ',
+    apiKey: 'AIzaSyAEszjrq9kwm7xwj9Z5j69Mxoj1KtNwWus',
+    appId: '1:468637029356:web:68d8fb014cccbd46ece6c9',
+    messagingSenderId: '468637029356',
+    projectId: 'login-lite-3c0c9',
+    authDomain: 'login-lite-3c0c9.firebaseapp.com',
+    storageBucket: 'login-lite-3c0c9.appspot.com',
+    measurementId: 'G-LE2MY6RER9',
   );
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyAHBJNfR-IVqXv9R0r-qUPocKONcccoXLQ',
-    appId: '1:450327961066:android:5f10bd3eb0fc5172b9e693',
-    messagingSenderId: '450327961066',
-    projectId: 'loginlite-73900',
-    storageBucket: 'loginlite-73900.appspot.com',
+    apiKey: 'AIzaSyBSLif8BahG-6rFGBvweoYlo5j-pRs7nHo',
+    appId: '1:468637029356:android:8a7bc65ab79f9dfcece6c9',
+    messagingSenderId: '468637029356',
+    projectId: 'login-lite-3c0c9',
+    storageBucket: 'login-lite-3c0c9.appspot.com',
   );
 
   static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'AIzaSyDD6AStYho1ZkdxSLbt-of3mQwqK1b0tac',
-    appId: '1:450327961066:ios:366e3e438106205db9e693',
-    messagingSenderId: '450327961066',
-    projectId: 'loginlite-73900',
-    storageBucket: 'loginlite-73900.appspot.com',
-    iosClientId: '450327961066-q8r2qdgq4iorriscdthlkkrl9cm39btq.apps.googleusercontent.com',
+    apiKey: 'AIzaSyBoOlZfrW6e_5Vdp3GWg63Vap91I-Cwv-k',
+    appId: '1:468637029356:ios:90392fa24db13c05ece6c9',
+    messagingSenderId: '468637029356',
+    projectId: 'login-lite-3c0c9',
+    storageBucket: 'login-lite-3c0c9.appspot.com',
+    iosClientId: '468637029356-tuuun44q02titliql9bl5dd24h3ef7tg.apps.googleusercontent.com',
     iosBundleId: 'com.aveosoftware.loginlite.loginLite',
   );
 
   static const FirebaseOptions macos = FirebaseOptions(
-    apiKey: 'AIzaSyDD6AStYho1ZkdxSLbt-of3mQwqK1b0tac',
-    appId: '1:450327961066:ios:366e3e438106205db9e693',
-    messagingSenderId: '450327961066',
-    projectId: 'loginlite-73900',
-    storageBucket: 'loginlite-73900.appspot.com',
-    iosClientId: '450327961066-q8r2qdgq4iorriscdthlkkrl9cm39btq.apps.googleusercontent.com',
+    apiKey: 'AIzaSyBoOlZfrW6e_5Vdp3GWg63Vap91I-Cwv-k',
+    appId: '1:468637029356:ios:90392fa24db13c05ece6c9',
+    messagingSenderId: '468637029356',
+    projectId: 'login-lite-3c0c9',
+    storageBucket: 'login-lite-3c0c9.appspot.com',
+    iosClientId: '468637029356-tuuun44q02titliql9bl5dd24h3ef7tg.apps.googleusercontent.com',
     iosBundleId: 'com.aveosoftware.loginlite.loginLite',
   );
 }
